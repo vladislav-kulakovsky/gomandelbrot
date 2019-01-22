@@ -2,6 +2,9 @@
 .idea
 
 #deps
-vendors/
+vendor/
+
+#results
+mandelbrot-sample.png
 
 
